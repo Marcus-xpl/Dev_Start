@@ -18,7 +18,6 @@ Todo o conteúdo foi cuidadosamente selecionado para oferecer uma base sólida n
 - [🔵 HTML + CSS na prática – Criando uma Landing Page](https://www.youtube.com/watch?v=llF6vD-RljE)
 - [🟣 Curso de JavaScript do zero – Parte 1](https://www.youtube.com/watch?v=Z7mnxUI4u00)
 - [🟢 Git e GitHub – Conceitos e comandos](https://www.youtube.com/watch?v=DqTITcMq68k)
-- [🔐 Introdução à Segurança da Informação](https://www.youtube.com/watch?v=6Kwz1oMaPnk)
 - [🧠 Playlist com os vídeos do canal](https://www.youtube.com/c/rafaellaballerini/playlists)
 
 
