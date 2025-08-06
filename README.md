@@ -19,7 +19,7 @@ Todo o conteúdo foi cuidadosamente selecionado para oferecer uma base sólida n
 - [🟣 Curso de JavaScript do zero – Parte 1](https://www.youtube.com/watch?v=Z7mnxUI4u00)
 - [🟢 Git e GitHub – Conceitos e comandos](https://www.youtube.com/watch?v=DqTITcMq68k)
 - [🔐 Introdução à Segurança da Informação](https://www.youtube.com/watch?v=6Kwz1oMaPnk)
-- [🧠 Playlist com todos os vídeos do canal](https://www.youtube.com/c/rafaellaballerini/playlists)
+- [🧠 Playlist com os vídeos do canal](https://www.youtube.com/c/rafaellaballerini/playlists)
 
 
 ##
