@@ -55,7 +55,7 @@ Todo o conteúdo foi cuidadosamente selecionado para oferecer uma base sólida n
 
 
 ##
-### 📘 Livros Gratuitos:
+### 📘 Livros:
 
 - [ZLibrary](https://pt.b-ok.lat/)
 - [Anna's Archive](https://annas-archive.org/)
@@ -71,7 +71,7 @@ Todo o conteúdo foi cuidadosamente selecionado para oferecer uma base sólida n
 - [Open University – Cursos com certificado](https://www.open.edu/openlearn/languages/free-courses)
 
 ##
-### 🧭 Guias e Roadmaps:
+### 🧭 Guias:
 
 - [Roadmap.sh – Rotas de aprendizado por carreira](https://roadmap.sh/)
 - [TechGuide.sh – Tendências de tecnologia da Alura](https://techguide.sh/)
